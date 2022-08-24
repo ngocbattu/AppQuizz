@@ -136,7 +136,6 @@ class MainActivity : AppCompatActivity() {
                 txtDapAn3.setText(list.get(i).list.get(2).dapAnDung)
                 txtDapAn4.setText(list.get(i).list.get(3).dapAnDung)
 
-                fuck
             }
         }
     }
